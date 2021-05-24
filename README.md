@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi Github 👋
 
-<!--
-**michael-mb/michael-mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hallo I'm **Michael**, computer science student 💻 and passionate about web development 💪.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some new projects 😁
+- 🤔 I like to develop with Spring and Vue. However I like to discover new tools 🔥
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-mb&theme=highcontrast&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-mb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
