@@ -28,7 +28,7 @@ collaboration(yourCompany, me, match)
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-mb&theme=highcontrast&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-mb&layout=compact)](https://github.com/michael-mb)
+
 
 
 ![alt text](https://komarev.com/ghpvc/?username=michael-mb&label=Profile%20views&color=0e75b6&style=flat "Viewers")
