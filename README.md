@@ -3,7 +3,7 @@
 Hallo I'm **Michael**, computer science student 💻 and passionate about web development 💪.
 
 
-- 🔭 Currently I'm learning to dockerize my applications and to write selenium tests with a very good architecture 😁
+- 🔭 Currently I'm learning how to dockerize my applications and to write selenium tests with a very good architecture 😁
 - 🤔 I like to develop with Spring and Vue. However I like to discover new tools 🔥
 
 ```javascript
