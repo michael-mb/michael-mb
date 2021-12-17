@@ -1,4 +1,4 @@
-### Hi Github  👋
+### Hi Github 👋
 
 Hallo I'm **Michael**, computer science student 💻 and passionate about web development 💪.
 
