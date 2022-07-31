@@ -2,9 +2,9 @@
 
 Hallo I'm **Michael**, computer science student 💻 and passionate about web development 💪.
 
+- 🤔 I like to code with Spring and Vue. However I like to discover new tools 🔥
 
-- 🔭 Currently I'm learning how to dockerize my applications and to write selenium tests with a very good architecture 😁
-- 🤔 I like to develop with Spring and Vue. However I like to discover new tools 🔥
+\#Competitive-programming \#Docker \#Selenium \#AI
 
 ```javascript
 let yourCompany = ["your team"];
