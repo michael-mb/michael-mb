@@ -17,6 +17,7 @@ const collaboration = (company, applicant, matching) =>{
         company.push(applicant);
         return `An awesome collaboration is announced between ${company[0]} and ${company[1]} 🤩`;
       }
+      throw ('no collaboration')
     } catch (err){
       return `Oh there is an error : ${err} \n Okay ! Let's wish a good continuation 🙂`;
     }  
