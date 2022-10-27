@@ -33,7 +33,7 @@ collaboration(yourCompany, me, match)
 
 <p style="display:flex;">
 <img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=michael-mb&show_icons=true&theme=highcontrast"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-mb&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,tex,php"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-mb&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,tex"/> 
 </p>
 
 ![alt text](https://komarev.com/ghpvc/?username=michael-mb&label=Profile%20views&color=0e75b6&style=flat "Viewers")
