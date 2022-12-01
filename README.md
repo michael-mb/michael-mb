@@ -4,7 +4,7 @@ Hallo I'm **Michael**, computer science student 💻 and passionate about web de
 
 - 🤔 I like to code with Spring and Vue. However I like to discover new tools 🔥
 
-\#Nuxt \#Spring \#Selenium \#Docker \#Rust
+\#Nuxt \#Spring \#Selenium \#Docker \#Rust \#GraphQL
 
 ```javascript
 let yourCompany = ["your team"];
